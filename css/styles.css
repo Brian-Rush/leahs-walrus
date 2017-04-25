@@ -1,0 +1,32 @@
+#walrus-showing {
+  display: none;
+}
+
+.raccoon-background {
+  background-image: url("http://img.huffingtonpost.com/asset/,scalefit_950_800_noupscale/560c30cf1b00002f00dfdfd8.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+.giraffe-background {
+  background-image: url("https://c1.staticflickr.com/4/3564/3303800772_6d09485569_b.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+.squirrel-background {
+  background-image: url("https://c1.staticflickr.com/7/6026/5934322386_1877a4e160_b.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
